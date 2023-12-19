@@ -1,0 +1,19 @@
+footer {
+    width: 100%;
+    height: $footerH;
+    color: white;
+    
+    
+    .padding-footer{
+        padding-top: 1px;
+    }
+    .top-footer{
+        width: 100%;
+        height: calc($footerH - 40px);
+        padding: 100px;
+    } 
+    #bot-footer{
+        width: 100%;
+        height: 40px
+    }   
+}
